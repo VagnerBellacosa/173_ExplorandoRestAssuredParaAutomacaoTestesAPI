@@ -31,7 +31,13 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Introdução](https://web.dio.me/lab/explorando-o-rest-assured-para-a-automacao-de-testes-de-api/learning/f5fdb091-947e-4ea4-ace4-66e8bcf22daf)[Conhecendo a API de base: Restful-booker](https://web.dio.me/lab/explorando-o-rest-assured-para-a-automacao-de-testes-de-api/learning/9116a0ad-be81-4edd-9d95-5b432131ae5e)[Os Primeiros Passos com o Postman](https://web.dio.me/lab/explorando-o-rest-assured-para-a-automacao-de-testes-de-api/learning/c97a6d18-e4e0-475e-82c4-100af03d7715)[Automatizando com Rest Assured](https://web.dio.me/lab/explorando-o-rest-assured-para-a-automacao-de-testes-de-api/learning/5cfe1db4-7343-48ae-90e4-f585ca41a5c8)[Gerando um Report com o Allure Framework](https://web.dio.me/lab/explorando-o-rest-assured-para-a-automacao-de-testes-de-api/learning/ddea625c-3f4e-45a2-a323-0a56b08d248b)[Indo Além com Json Server](https://web.dio.me/lab/explorando-o-rest-assured-para-a-automacao-de-testes-de-api/learning/ce4208af-da10-4346-ba0e-c636026299b7)[Entendendo o Desafio](https://web.dio.me/lab/explorando-o-rest-assured-para-a-automacao-de-testes-de-api/learning/960bbe03-2cfa-4cbb-a6ea-abae1a0d7bab)
+- [Introdução](https://web.dio.me/lab/explorando-o-rest-assured-para-a-automacao-de-testes-de-api/learning/f5fdb091-947e-4ea4-ace4-66e8bcf22daf)
+- [Conhecendo a API de base: Restful-booker](https://web.dio.me/lab/explorando-o-rest-assured-para-a-automacao-de-testes-de-api/learning/9116a0ad-be81-4edd-9d95-5b432131ae5e)
+- [Os Primeiros Passos com o Postman](https://web.dio.me/lab/explorando-o-rest-assured-para-a-automacao-de-testes-de-api/learning/c97a6d18-e4e0-475e-82c4-100af03d7715)
+- [Automatizando com Rest Assured](https://web.dio.me/lab/explorando-o-rest-assured-para-a-automacao-de-testes-de-api/learning/5cfe1db4-7343-48ae-90e4-f585ca41a5c8)
+- [Gerando um Report com o Allure Framework](https://web.dio.me/lab/explorando-o-rest-assured-para-a-automacao-de-testes-de-api/learning/ddea625c-3f4e-45a2-a323-0a56b08d248b)
+- [Indo Além com Json Server](https://web.dio.me/lab/explorando-o-rest-assured-para-a-automacao-de-testes-de-api/learning/ce4208af-da10-4346-ba0e-c636026299b7)
+- [Entendendo o Desafio](https://web.dio.me/lab/explorando-o-rest-assured-para-a-automacao-de-testes-de-api/learning/960bbe03-2cfa-4cbb-a6ea-abae1a0d7bab)
 
 
 
@@ -55,7 +61,7 @@ auto
 
 Aqui estão os slides que a Expert Carolina apresentou durante o Desafio de Projeto. **Não deixe de acessá-los e consultar os links úteis que ela deixou no arquivo.**
 
-[Projeto de testes API.pptx](https://academiapme-my.sharepoint.com/:p:/g/personal/kawan_dio_me/EZdKR9y_VuFOnjnEII7LgWQBbh-QXKAWzqvVOeB2cm-roQ?e=73X2qA) 
+- [Projeto de testes API.pptx](https://academiapme-my.sharepoint.com/:p:/g/personal/kawan_dio_me/EZdKR9y_VuFOnjnEII7LgWQBbh-QXKAWzqvVOeB2cm-roQ?e=73X2qA) 
 
  
 
